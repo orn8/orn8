@@ -1,9 +1,9 @@
 <div id="header" align="center">
     <img src="https://i.imgur.com/0m0N25K.gif" width="100"/>
     <div id="badges">
-        <img src="https://img.shields.io/badge/NO-orange?style=for-the-badge" alt="NO"/>
-        <img src="https://img.shields.io/badge/Social-orange?style=for-the-badge" alt="SOCIAL"/>
-        <img src="https://img.shields.io/badge/MEDIA-orange?style=for-the-badge" alt="MEDIA"/>
+        <img src="https://img.shields.io/badge/NO-FC6A04?style=for-the-badge" alt="NO"/>
+        <img src="https://img.shields.io/badge/SOCIAL-FC6A04?style=for-the-badge" alt="SOCIAL"/>
+        <img src="https://img.shields.io/badge/MEDIA-FC6A04?style=for-the-badge" alt="MEDIA"/>
     </div>
     <img src="https://komarev.com/ghpvc/?username=wiseoragne&style=flat-square&color=blue" alt="Profile Views"/>
     <h1>
@@ -37,6 +37,6 @@ I am a programming hobbyist that likes to code in their free time.
 
 ### 🔥 Statistics:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wiseoragne&theme=transparent&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=wiseoragne&theme=transparent&hide_border=true&ring=FC6A04&fire=FC6A04&currStreakNum=FC6A04&sideNums=FC6A04&currStreakLabel=FC6A04&sideLabels=FC6A04&stroke=FC6A04&hide_longest_streak=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiseoragne&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiseoragne&theme=transparent&hide_border=true&card_width=495px&title_color=FC6A04&text_color=FC6A04)
