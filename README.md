@@ -21,7 +21,7 @@
 
 I am a programming hobbyist that likes to code in their free time.
 
-- :pencil2: I'm an upper primary student right now.
+- :pencil2: I'm an upper-primary student right now (in Australia).
 
 - :telescope: I'm currently learning Unity, along with C#.
 
