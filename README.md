@@ -25,7 +25,7 @@ I am a programming hobbyist that likes to code in their free time.
 
 - :telescope: I'm currently learning Unity, along with C#.
 
-- :zap: In my free time, I like creating HTML and JavaScript based projects, such as [KahootFetcher](https://wiseoragne.github.io/kahootfetcher/).
+- :zap: In my free time, I like creating HTML and JavaScript based projects, such as [VanishGames](https://orn8.github.io/vanishgames/).
 
 ---
 
