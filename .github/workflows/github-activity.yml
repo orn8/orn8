@@ -17,4 +17,3 @@ jobs:
         with:
           COMMIT_MSG: "Added Recent Activity"
           MAX_LINES: 10
-          GH_USERNAME: "orn8"
