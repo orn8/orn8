@@ -43,6 +43,6 @@ I am a programming hobbyist that likes to code in their free time.
 
 ---
 
-### :dividers: Recent Activity:
+### 🗂️ Recent Activity:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
