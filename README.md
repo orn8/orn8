@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/SOCIAL-FC6A04?style=for-the-badge" alt="SOCIAL"/>
         <img src="https://img.shields.io/badge/MEDIA-FC6A04?style=for-the-badge" alt="MEDIA"/>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=wiseoragne&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=orn8&style=flat-square&color=fc6a04" alt="Profile Views"/>
     <h1>
         sup all
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
