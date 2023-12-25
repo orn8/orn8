@@ -5,7 +5,9 @@
         <img src="https://img.shields.io/badge/SOCIAL-FC6A04?style=for-the-badge" alt="SOCIAL"/>
         <img src="https://img.shields.io/badge/MEDIA-FC6A04?style=for-the-badge" alt="MEDIA"/>
     </div>
+    <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/orn8?color=B8B92B&style=flat-square&logo=star&label=Stars"/>
     <img src="https://komarev.com/ghpvc/?username=orn8&style=flat-square&color=fc6a04" alt="Profile Views"/>
+    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/orn8?color=236ad3&style=flat-square&logo=github&label=Followers"/>
     <h1>
         sup all
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
