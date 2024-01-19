@@ -1,14 +1,14 @@
-name: Update Meme Readme
+name: Update Image Readme
 
 on:
   workflow_dispatch:
   schedule:
     # Runs at 1 UTC everyday
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
 
 jobs:
   update-readme:
-    name: Update Meme README
+    name: Update Image README
     runs-on: ubuntu-latest
     steps:
       - uses: siddharth2016/update-readme-image@main
