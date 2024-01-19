@@ -10,8 +10,7 @@
     <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/orn8?color=236ad3&style=flat-square&logo=github&label=Followers"/>
     <h1>
         sup all
-        <!--START_SECTION:update_image-->
-        <!--END_SECTION:update_image-->
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
 <div align="center">
