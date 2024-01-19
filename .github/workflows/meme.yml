@@ -1,4 +1,4 @@
-name: Update Image Readme
+name: Update Meme Readme
 
 on:
   workflow_dispatch:
