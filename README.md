@@ -29,6 +29,8 @@ I am a programming hobbyist that likes to code in their free time.
 
 - :zap: In my free time, I like creating various projects, such as [micro-games](https://github.com/orn8/micro-games).
 
+- :dependabot: MacOS ***power*** user.
+
 ---
 
 ### 🛠️ Languages and Tools:
@@ -43,6 +45,7 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img title="Markdown" src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="markdown" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img title="Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
