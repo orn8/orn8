@@ -50,7 +50,8 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://kernel.org" target="_blank" rel="noreferrer"> <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
     <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img title="Markdown" src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="markdown" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+    <a href="https://unity.com" target="_blank" rel="noreferrer"> <img title="Unity" src="https://raw.githubusercontent.com/orn8/orn8/main/unity.svg" alt="unity" width="40" height="40" /> </a>
     <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img title="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
 </p>
