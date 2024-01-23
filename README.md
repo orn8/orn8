@@ -57,7 +57,7 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
 </p>
 
-###### I just slapped in any tool or language I was familiar with from https://devicon.dev.
+###### I just slapped in any tool or language from [DevIcons](https://devicons.dev) that I was familiar with.
 
 
 ---
