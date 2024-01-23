@@ -20,9 +20,36 @@
                     60% { transform: rotate( 0.0deg) }
                     100% { transform: rotate( 0.0deg) }
                 }
+
+                .outer {
+                  display: table;
+                  position: absolute;
+                  top: 0;
+                  left: 0;
+                  height: 100%;
+                  width: 100%;
+                }
+                
+                .middle {
+                  display: table-cell;
+                  vertical-align: middle;
+                }
+                
+                .inner {
+                  margin-left: auto;
+                  margin-right: auto;
+                  width: 30px;
+                }
             </style>
     
-            <span class="wave">👋</span>
+            
+            <div class="outer">
+                <div class="middle">
+                    <div class="inner">
+                        <span class="wave">👋</span>
+                    </div>
+                </div>
+            </div>
         </div>
     </foreignObject>
 </svg>
