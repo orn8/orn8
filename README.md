@@ -43,8 +43,6 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer"> <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://fedoraproject.org" target="_blank" rel="noreferrer"> <img title="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40" /> </a>
-    <a href="https://filezilla-project.org" target="_blank" rel="noreferrer"> <img title="FileZilla" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" alt="filezilla" width="40" height="40" />
     <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"> <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
@@ -53,11 +51,9 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
     <a href="https://unity.com" target="_blank" rel="noreferrer"> <img title="Unity" src="https://raw.githubusercontent.com/orn8/orn8/main/unity.svg" alt="unity" width="40" height="40" /> </a>
-    <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img title="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /> </a>
-    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
 </p>
 
-###### I just slapped in any tool or language from [DevIcons](https://devicons.dev) that I was familiar with.
+###### I just slapped in some useful stuff I knew from [DevIcons](https://devicons.dev).
 
 
 ---
