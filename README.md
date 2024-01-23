@@ -37,6 +37,7 @@ I am a programming hobbyist that likes to code in their free time.
 
 <p align="left">
     <a href="https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html" target="_blank" rel="noreferrer"> <img title="AppleScript" src="https://help.apple.com/assets/63FFD4857B7E1331387ABC65/63FFD48A7B7E1331387ABC6C/en_AU/c77d7a227a5fd365df2de28d731eebb6.png" alt="applescript" width="40" height="40" /> </a>
+    <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img title="Bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/512x512_white.svg" alt="bash" width="40" height="40" /> </a>
     <a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer"> <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
@@ -52,7 +53,6 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
     <a href="https://www.vim.org" target="_blank" rel="noreferrer"> <img title="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
-    
 </p>
 
 ---
