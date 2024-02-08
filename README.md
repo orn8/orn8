@@ -53,7 +53,7 @@ I am a programming hobbyist that likes to code in their free time.
     <a href="https://unity.com" target="_blank" rel="noreferrer"> <img title="Unity" src="https://raw.githubusercontent.com/orn8/orn8/main/unity.svg" alt="unity" width="40" height="40" /> </a>
 </p>
 
-###### I just slapped in some useful stuff I knew from [DevIcons](https://devicons.dev).
+###### I just slapped in some useful stuff I knew from [DevIcon](https://devicon.dev).
 
 
 ---
