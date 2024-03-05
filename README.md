@@ -1,9 +1,9 @@
 <div id="header" align="center">
     <img src="https://i.imgur.com/0m0N25K.gif" width="100"/>
     <div id="badges">
-        <img src="https://img.shields.io/badge/NO-FC6A04?style=for-the-badge" alt="NO"/>
-        <img src="https://img.shields.io/badge/SOCIAL-FC6A04?style=for-the-badge" alt="SOCIAL"/>
-        <img src="https://img.shields.io/badge/MEDIA-FC6A04?style=for-the-badge" alt="MEDIA"/>
+        <img src="https://img.shields.io/badge/HEY,-FC6A04?style=for-the-badge" alt="HEY,"/>
+        <img src="https://img.shields.io/badge/I'M-FC6A04?style=for-the-badge" alt="I'M"/>
+        <img src="https://img.shields.io/badge/ORAGNE!-FC6A04?style=for-the-badge" alt="ORAGNE!"/>
     </div>
     <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/orn8?color=B8B92B&style=flat-square&logo=star&label=Stars"/>
     <img src="https://komarev.com/ghpvc/?username=orn8&style=flat-square&color=fc6a04" alt="Profile Views"/>
