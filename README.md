@@ -27,7 +27,7 @@ I am a programming hobbyist that likes to code in their free time.
 
 - :telescope: I'm currently learning Unity, along with C#.
 
-- :zap: In my free time, I like creating various projects, such as [micro-games](https://github.com/orn8/micro-games).
+- :zap: In my free time, I like creating various projects, such as [micro-games](https://github.com/orn8/vanishgames).
 
 - <img title="Apple" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="apple" width="20" height="20" /> MacOS ***power*** user.
 
