@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.imgur.com/0m0N25K.gif" width="100"/>
+    <img src="https://i.imgur.com/gPVPYMw.jpeg" width="100"/>
     <div id="badges">
         <img src="https://img.shields.io/badge/HEY,-FC6A04?style=for-the-badge" alt="HEY,"/>
         <img src="https://img.shields.io/badge/I'M-FC6A04?style=for-the-badge" alt="I'M"/>
