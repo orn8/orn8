@@ -1,9 +1,7 @@
 <div id="header" align="center">
     <img src="https://i.imgur.com/gPVPYMw.jpeg" width="100"/>
     <div id="badges">
-        <img src="https://img.shields.io/badge/HEY,-FC6A04?style=for-the-badge" alt="HEY,"/>
-        <img src="https://img.shields.io/badge/I'M-FC6A04?style=for-the-badge" alt="I'M"/>
-        <img src="https://img.shields.io/badge/ORAGNE!-FC6A04?style=for-the-badge" alt="ORAGNE!"/>
+        <img src="https://img.shields.io/badge/HEY,%20I'M%20ORAGNE!-FC6A04?style=for-the-badge" alt="HEY, I'M ORAGNE"/>
     </div>
     <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/orn8?color=B8B92B&style=flat-square&logo=star&label=Stars"/>
     <img src="https://komarev.com/ghpvc/?username=orn8&style=flat-square&color=fc6a04" alt="Profile Views"/>
@@ -26,8 +24,6 @@ I am a programming hobbyist that likes to code in their free time.
 - :telescope: I'm currently learning Lua.
 
 - :zap: In my free time, I like creating various projects, such as [vanishgames](https://github.com/orn8/vanishgames).
-
-- <img title="Apple Logo" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="apple" width="20" height="20" /> MacOS ***power*** user.
 
 ---
 
