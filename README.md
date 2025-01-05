@@ -3,9 +3,9 @@
     <div id="badges">
         <img src="https://img.shields.io/badge/HEY,%20I'M%20ORAGNE!-FC6A04?style=for-the-badge" alt="HEY, I'M ORAGNE"/>
     </div>
-    <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/orn8?color=B8B92B&style=flat-square&logo=star&label=Stars"/>
+    <img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/orn8?color=FC6A04&style=flat-square&logo=star&label=Stars"/>
     <img src="https://komarev.com/ghpvc/?username=orn8&style=flat-square&color=fc6a04" alt="Profile Views"/>
-    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/orn8?color=236ad3&style=flat-square&logo=github&label=Followers"/>
+    <img alt="Followers" title="Follow me on Github" src="https://img.shields.io/github/followers/orn8?color=fc6a04&style=flat-square&logo=github&label=Followers"/>
     <h1>
         sup all
         <img src="https://raw.githubusercontent.com/orn8/orn8/main/wave.svg" width="30px" height="30px"/>
