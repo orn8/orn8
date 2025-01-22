@@ -46,14 +46,3 @@ I am a programming hobbyist that likes to code in their free time.
 </p>
 
 ###### I just slapped in some useful stuff I knew from [DevIcon](https://devicon.dev).
-
-
----
-
-### 🔥 Statistics:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=orn8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&title_color=FC6A04&text_color=FC6A04&icon_color=FC6A04&disable_animations=true&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=orn8&theme=transparent&hide_border=true&ring=FC6A04&fire=FC6A04&currStreakNum=FC6A04&sideNums=FC6A04&currStreakLabel=FC6A04&sideLabels=FC6A04&stroke=FC6A04&hide_longest_streak=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orn8&theme=transparent&hide_border=true&card_width=495px&title_color=FC6A04&text_color=FC6A04&layout=donut-vertical)
