@@ -21,7 +21,7 @@
 
 I am a programming hobbyist that likes to code in their free time.
 
-- :telescope: I'm currently learning Lua along with Roblox Studio.
+- :telescope: I'm currently learning the Unity game engine.
 
 - :zap: In my free time, I like creating various projects, such as [vanishgames](https://github.com/orn8/vanishgames).
 
